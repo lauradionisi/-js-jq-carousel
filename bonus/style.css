@@ -59,6 +59,7 @@
 }
 .nav > i.active {
     transition: 0.5s;
+    
 }
 
 .yellow {

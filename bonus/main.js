@@ -55,9 +55,7 @@ function prevImage() {
 // ad ogni click sul pallino deve corrispondere l'apparsa di una immagine 
 
 
-
 $(".dot").click(function() {
   $(this).toggleClass("yellow");
   nextImage();
 });
-
